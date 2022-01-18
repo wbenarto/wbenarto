@@ -17,8 +17,8 @@ I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy b
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="10%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="10%" title='CSS3'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="9%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="9%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="10%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="10%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="10%" title='JavaScript'/>
@@ -31,10 +31,10 @@ I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy b
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="10%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="10%" title='Express'/>
-  <img src ="./images/firebase.png" alt="Firebase logo" width="10%" title="Firebase"/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="10%" title='MongoDB'/>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="15%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" width="15%" title='Express'/>
+  <img src ="./images/firebase.png" alt="Firebase logo" width="15%" title="Firebase"/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="15%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="10%" title='MYSQL'/>
   <img src ="./images/python.svg" alt="Python logo" width="10%" title='Python'/>
 </div>
@@ -52,4 +52,4 @@ I play basketball and a HUGE fan of the Golden State Warriors.
 I enjoy the outdoors, snowboarding, seafood harvesting around the bay, and photography.
 
 ---
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
+<small> _I am a lifelong learner. I believe in continuous improvement each and every day - Kaizen_. </small>
