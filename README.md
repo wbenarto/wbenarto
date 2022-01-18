@@ -2,7 +2,7 @@
 
 ## My name is William Benarto
 
-I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy building things that live on the internet and aspire to help & create value for other people through my code. I am very much pleased to have you here on my GitHub page to show my contributions and projects. 
+I am a _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy building things that live on the internet and aspire to help & create value for other people through my code. I am very much pleased to have you here on my GitHub page to show my contributions and projects. 
 
 ![](https://komarev.com/ghpvc/?username=wbenarto&color=green)
 
