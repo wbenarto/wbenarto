@@ -9,7 +9,7 @@ I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy b
 <div>
 <a href="https://www.linkedin.com/in/william-benarto/" target="_blank"><img src='./images/in.svg' alt='LinkedIn' width="10%"></a>
 <a href="https://twitter.com/wbenarto" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="10%" title='@Asabeneh'></a>
-<a href="http://wbenarto.com/" target="_blank">website</a>
+<a href="http://wbenarto.com/" target="_blank">Portfolio website</a>
 </div>
 
 ## Technologies:
@@ -43,16 +43,13 @@ I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy b
 
 ## What else do I do?
 
-I love to cook for my friends and my family. My specialty is sushi and japanese food. Checkout my <a href="https://webesushi.io" target="_blank">sushi website</a>
+I love to cook for my friends and my family. My specialty is sushi and japanese food. Checkout my <a href="https://webesushi.io" target="_blank">sushi website</a>.
 
-I share the love of programming with my 11 year-old niece which I started tutoring in the beginning of 2020. We used Scratch programming to create projects and built her foundation in programming. She is now moving on to HTML and CSS to create her own website. 
+I share the love of programming with my 11 year-old niece which I started tutoring in the beginning of 2020. We used programming to create projects and built her foundation in programming. She is now moving on to HTML and CSS to create her own website. Check out her <a href="https://scratch.mit.edu/users/ScrunchyGamerGirl12/" target="_blank">Scratch profile</a>.
 
 I play basketball and a HUGE fan of the Golden State Warriors. 
 
 I enjoy the outdoors, snowboarding, seafood harvesting around the bay, and photography.
 
-  
-
-  
 ---
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
