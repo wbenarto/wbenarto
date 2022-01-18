@@ -7,7 +7,7 @@ I am an _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy b
 ![](https://komarev.com/ghpvc/?username=wbenarto&color=green)
 
 <div>
-<a href="https://www.linkedin.com/in/william-benarto/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="10%"></a>
+<a href="https://www.linkedin.com/in/william-benarto/" target="_blank"><img src='./images/in.svg' alt='LinkedIn' width="10%"></a>
 <a href="https://twitter.com/wbenarto" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="10%" title='@Asabeneh'></a>
 <a href="http://wbenarto.com/" target="_blank">website</a>
 </div>
