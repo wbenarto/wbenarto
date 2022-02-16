@@ -40,6 +40,7 @@ I am a _programmer_ / _full-stack developer_ / _front-end engineer_ . I enjoy bu
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbenarto&layout)](https://github.com/wbenarto/github-readme-stats)
+![Metrics](/github-metrics.svg)
 
 ## What else do I do?
 
