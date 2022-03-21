@@ -36,18 +36,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1077 Commits
+                            1095 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.9432955052779" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="235.9432955052779" y="0" width="110.505406472996" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="346.44870197827385" y="0" width="38.61799774864929" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.06669972692316" y="0" width="35.955838179716345" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="421.02253790663946" y="0" width="18.577178003762803" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.5997159104023" y="0" width="9.407652086522033" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.00736799692436" y="0" width="9.097936393737104" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="458.10530439066144" y="0" width="1.8946956093385552" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.8405406825526" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.8405406825526" y="0" width="110.06288258939128" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="346.90342327194384" y="0" width="38.46335023513648" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.3667735070803" y="0" width="35.81185140425085" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="421.1786249113312" y="0" width="18.502784856684972" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.6814097680162" y="0" width="9.36997871949137" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.05138848750755" y="0" width="9.061503297165226" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="458.1128917846728" y="0" width="1.8871082153272207" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -308,8 +308,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#04e22c8</div>
-                                        <div class="message">add step form</div>
+                                        <div class="sha">#bf550e4</div>
+                                        <div class="message">input fields</div>
                                     </div>
                                 </div>
                             </section>
@@ -328,8 +328,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0f10c42</div>
-                                        <div class="message">one more</div>
+                                        <div class="sha">#c049fb7</div>
+                                        <div class="message">recipe add firebase connection</div>
                                     </div>
                                 </div>
                             </section>
@@ -342,34 +342,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">wbenarto/WB</span>
+                                        <span class="repo">wbenarto/webesushi-functions</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#182c565</div>
-                                        <div class="message">portfolio deconstruct</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">wbenarto/WB</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ed0d55</div>
-                                        <div class="message">screen loading</div>
+                                        <div class="sha">#448bacf</div>
+                                        <div class="message">sushi recipe new</div>
                                     </div>
                                 </div>
                             </section>
@@ -388,8 +368,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ebf4bd3</div>
-                                        <div class="message">add step input dynamically</div>
+                                        <div class="sha">#6d8d613</div>
+                                        <div class="message">add recipe modal frontend done</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">wbenarto/Webesushi.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a7f9840</div>
+                                        <div class="message">dropdown styling</div>
                                     </div>
                                 </div>
                             </section>
@@ -441,7 +441,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 187k out of 87m users</span>
+                                    <span class="gh">ranked 188k out of 87m users</span>
                                 </div>
                                 <div class="text">Published 81 public repositories</div>
                             </div>
@@ -527,7 +527,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880219165 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.182751540041063 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -739,7 +739,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 869k out of 87m users</span>
+                                    <span class="gh">ranked 876k out of 87m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -863,7 +863,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.03m out of 288m repositories</span>
+                                    <span class="gh">ranked 4.04m out of 290m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -951,7 +951,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Mar 2022, 06:24:49 (timezone America/Los_Angeles) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 21 Mar 2022, 06:26:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
