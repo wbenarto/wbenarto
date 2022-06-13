@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1232 Commits
+                            1240 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            42 Pull requests opened
+                            46 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.85751114314485" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="235.85751114314485" y="0" width="105.39238272417894" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="341.24989386732375" y="0" width="37.330802501397805" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="378.5806963687216" y="0" width="36.273085822498366" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="414.85378219122" y="0" width="22.468378751829412" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.32216094304937" y="0" width="10.18370544235785" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="447.5058663854072" y="0" width="8.972365252381932" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="456.4782316377892" y="0" width="3.5217683622108553" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.7343059122894" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="235.7343059122894" y="0" width="105.33732875205396" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="341.0716346643433" y="0" width="37.31130195584421" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="378.38293662018754" y="0" width="36.25413779794346" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="414.637074418131" y="0" width="22.69693278066308" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.3340071987941" y="0" width="10.17838576534647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.5123929641406" y="0" width="8.967678344905966" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.48007130904654" y="0" width="3.5199286909534817" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -261,7 +261,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -302,14 +302,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#175c3d0</div>
-                                        <div class="message">Merge pull request #9 from wbenarto/practice
+                                        <div class="sha">#014f032</div>
+                                        <div class="message">Merge pull request #13 from wbenarto/practice
 
-anagram</div>
+ez</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a8ab2f6</div>
-                                        <div class="message">anagram</div>
+                                        <div class="sha">#2d2df84</div>
+                                        <div class="message">ez</div>
                                     </div>
                                 </div>
                             </section>
@@ -322,12 +322,12 @@ anagram</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 anagram</span>
+                                        <span class="issue">#13 ez</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">wbenarto/codewars</span></div>
-                                    <div>2 files changed <span class="code">++43 --1351</span></div>
+                                    <div>2 files changed <span class="code">++76 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -339,12 +339,12 @@ anagram</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 anagram</span>
+                                        <span class="issue">#13 ez</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">wbenarto/codewars</span></div>
-                                    <div>2 files changed <span class="code">++43 --1351</span></div>
+                                    <div>2 files changed <span class="code">++76 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -362,8 +362,8 @@ anagram</div>
                                 <div class="details">
                                     <div>on branch <span class="code">practice</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8ab2f6</div>
-                                        <div class="message">anagram</div>
+                                        <div class="sha">#2d2df84</div>
+                                        <div class="message">ez</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,14 +382,14 @@ anagram</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0284c7</div>
-                                        <div class="message">Merge pull request #8 from wbenarto/practice
+                                        <div class="sha">#e0f1ac0</div>
+                                        <div class="message">Merge pull request #12 from wbenarto/practice
 
-medium</div>
+max profit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a2c851f</div>
-                                        <div class="message">medium</div>
+                                        <div class="sha">#b019175</div>
+                                        <div class="message">max profit</div>
                                     </div>
                                 </div>
                             </section>
@@ -441,7 +441,7 @@ medium</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 183k out of 92m users</span>
+                                    <span class="gh">ranked 184k out of 92m users</span>
                                 </div>
                                 <div class="text">Published 84 public repositories</div>
                             </div>
@@ -562,7 +562,7 @@ medium</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191812 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -598,7 +598,7 @@ medium</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.29145728643216 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.40703517587939 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -626,7 +626,7 @@ medium</div>
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 63 pull requests</div>
+                                <div class="text">Opened 67 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -739,7 +739,7 @@ medium</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 919k out of 92m users</span>
+                                    <span class="gh">ranked 925k out of 92m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -863,7 +863,7 @@ medium</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.09m out of 311m repositories</span>
+                                    <span class="gh">ranked 4.09m out of 314m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -951,7 +951,7 @@ medium</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2022, 06:41:39 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 06:39:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
