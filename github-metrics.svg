@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1513 Commits
+                            1525 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            147 Pull requests opened
+                            154 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.97302447215415" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="250.97302447215415" y="0" width="93.6378769379493" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="344.6109014101035" y="0" width="35.958493170204264" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="380.56939458030774" y="0" width="34.282316849995944" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="414.8517114303037" y="0" width="23.57776803001813" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.42947946032183" y="0" width="10.251896389386365" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.68137584970816" y="0" width="7.97166940938821" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="456.65304525909636" y="0" width="3.3469547409036173" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.2314721707289" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="251.2314721707289" y="0" width="93.5099110842763" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="344.7413832550052" y="0" width="35.90935216630935" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="380.65073542131455" y="0" width="34.23546651458622" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="414.8862019359008" y="0" width="23.5455465688709" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.43174850477163" y="0" width="10.249950614776282" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.68169911954794" y="0" width="7.96077529779011" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.64247441733806" y="0" width="3.357525582661936" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -292,25 +292,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">wbenarto/codewars</span>
+                                        Merged
+                                        <span class="issue">#50 music</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ce57af2</div>
-                                        <div class="message">Merge pull request #39 from wbenarto/practice
-
-woven practice</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1288dc1</div>
-                                        <div class="message">woven practice</div>
-                                    </div>
+                                    <div> in <span class="repo">wbenarto/jin</span></div>
+                                    <div>5 files changed <span class="code">++14 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -318,16 +309,25 @@ woven practice</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#39 woven practice</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">wbenarto/jin</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">wbenarto/codewars</span></div>
-                                    <div>2 files changed <span class="code">++149 --12</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ad4cf1c</div>
+                                        <div class="message">Merge pull request #50 from wbenarto/new
+
+music</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60e5c42</div>
+                                        <div class="message">music</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -339,12 +339,12 @@ woven practice</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#39 woven practice</span>
+                                        <span class="issue">#50 music</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">wbenarto/codewars</span></div>
-                                    <div>2 files changed <span class="code">++149 --12</span></div>
+                                    <div> in <span class="repo">wbenarto/jin</span></div>
+                                    <div>5 files changed <span class="code">++14 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -356,14 +356,14 @@ woven practice</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">wbenarto/codewars</span>
+                                        <span class="repo">wbenarto/jin</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">practice</span></div>
+                                    <div>on branch <span class="code">new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1288dc1</div>
-                                        <div class="message">woven practice</div>
+                                        <div class="sha">#60e5c42</div>
+                                        <div class="message">music</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,14 +382,14 @@ woven practice</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a115dac</div>
-                                        <div class="message">Merge pull request #47 from wbenarto/new
+                                        <div class="sha">#3295151</div>
+                                        <div class="message">Merge pull request #49 from wbenarto/new
 
-layout fixes</div>
+grid</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f862d4f</div>
-                                        <div class="message">layout fixes</div>
+                                        <div class="sha">#340db34</div>
+                                        <div class="message">grid</div>
                                     </div>
                                 </div>
                             </section>
@@ -441,7 +441,7 @@ layout fixes</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 190k out of 98m users</span>
+                                    <span class="gh">ranked 191k out of 99m users</span>
                                 </div>
                                 <div class="text">Published 85 public repositories</div>
                             </div>
@@ -527,7 +527,7 @@ layout fixes</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.91666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.05 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -549,7 +549,7 @@ layout fixes</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 405 times</div>
+                                <div class="text">Repositories have been deployed 413 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -562,7 +562,7 @@ layout fixes</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.74366872005477 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.22895277207392 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -598,7 +598,7 @@ layout fixes</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.0753768844221 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="135.52763819095478 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -626,7 +626,7 @@ layout fixes</div>
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 168 pull requests</div>
+                                <div class="text">Opened 175 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -739,7 +739,7 @@ layout fixes</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 993k out of 98m users</span>
+                                    <span class="gh">ranked 1.01m out of 99m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -863,7 +863,7 @@ layout fixes</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.21m out of 343m repositories</span>
+                                    <span class="gh">ranked 4.22m out of 345m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -951,7 +951,7 @@ layout fixes</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Sept 2022, 06:57:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Oct 2022, 06:59:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
